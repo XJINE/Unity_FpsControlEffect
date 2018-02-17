@@ -2,4 +2,4 @@
 
 Control Fps wih PostEffect.
 
-![](https://github.com/XJINE/Unity_FpsControlEffect/blob/master/screenshot.gif)
+<img src="https://github.com/XJINE/Unity_FpsControlEffect/blob/master/screenshot.gif" width="100%" height="auto" />
